@@ -12,25 +12,19 @@ To preserve clarity we recommend the use of the SVG format where possible.
 
 1. [Logo](logo/)
 	
-    a. [QRL Yellow](https://github.com/theQRL/assets/tree/master/logo/Yellow)  
-![QRL Yellow logo](logo/yellow.png)
+    a. QRL Yellow ![QRL Yellow logo](logo/yellow.png)
 
-	b. [QRL dark](logo/black.png)  
-![QRL Dark logo](logo/black.png)
+	b. QRL dark ![QRL Dark logo](logo/black.png)
 	
-    c. [White](logo/white.png)  
-![QRL White logo](previews/logo/white.png)
+    c. White ![QRL White logo](previews/logo/white.png)
 
 2. [Icon](Icon/)
 
-    a. [QRL Yellow](Icon/yellow)  
-![QRL Yellow icon](Icon/yellow/yellow_100x100.png)
+    a. QRL Yellow ![QRL Yellow icon](Icon/yellow/yellow_100x100.png)
 
-    b. [QRL dark](Icon/dark)  
-![QRL Dark icon](Icon/dark/dark_100x100.png)
+    b. Dark ![QRL Dark icon](Icon/dark/dark_100x100.png)
     
-    c. [White](Icon/white)  
-![QRL White icon](previews/icon/white.png)
+    c. White ![QRL White icon](previews/icon/white.png)
 
 3. [Dots](Dots/)
 
