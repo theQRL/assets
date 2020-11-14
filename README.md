@@ -26,13 +26,17 @@ To preserve clarity we recommend the use of the SVG format where possible.
     
     c. White ![QRL White icon](previews/icon/white.png)
 
-3. [Dots](Dots/)
+3. [Circle](Circle/)
+
+	a. QRL Yellow on Black Circle ![QRL Circle Yellow](Circle/yellow-black.100x100.png)
+
+4. [Dots](Dots/)
 
 Available in multiple brand colours and shades.
  
 ![](previews/dots/yellowpreview.png) ![](previews/dots/bluepreview.png) ![](previews/dots/darkpreview.png) ![](previews/dots/lightpreview.png)
 
-4. [Tree](Tree/)
+5. [Tree](Tree/)
 
 Available in with dark and transparent backgrounds
  
